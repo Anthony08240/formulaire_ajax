@@ -1,7 +1,7 @@
 <?php
 
 // Changer les 4 variables ci-dessous
-$yourName = 'Anthony Beenen';
+$yourName = 'Beenen';
 $yourEmail = 'beenen@simplon-charleville.fr';
 $yourSubject = 'test Ajax';
 $referringPage = 'http://beenen.simplon-charleville.fr/formulaire_ajax/index.php';
